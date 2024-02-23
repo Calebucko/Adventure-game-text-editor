@@ -17,6 +17,7 @@
     playNode()
         given the game data and a node,
         plays out the node
+        monitors if correct data has been inputed
         returns the next node
     getDefaultGame()
         creates a single-node default game
