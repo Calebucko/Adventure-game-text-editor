@@ -25,11 +25,14 @@
     editNode()
         given the current game structure...
         list all the current node names
+        print dictionary from json files
+        check through dictionary keys
         get a node name
         if that node exists
             copy that node to newNode
         otherwise...
             create newNode with empty data
+        show list of varibles that will change with edit field function
         use editField() to allow user to edit each node
         return the now edited newNode
     editField()
